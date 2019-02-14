@@ -8,7 +8,7 @@ $python scraiping.py [keyword] [count] [directory]
 vgg16_train.py
 VGG16を学習するプログラム
 Usage:
-$python vgg16_train.py)
+$python vgg16_train.py
 
 vgg16_train.py
 VGG16をテストするプログラム
